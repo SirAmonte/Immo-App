@@ -1,0 +1,105 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "Odisee.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Odisee.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Odisee.Common.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "Odisee.Common/1.0.0": {
+      "type": "project",
+      "path": "../Odisee.Common/Odisee.Common.csproj",
+      "msbuildProject": "../Odisee.Common/Odisee.Common.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "Odisee.Common >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Liman\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.Business\\AAD.ImmoWin.Business.csproj",
+      "projectName": "AAD.ImmoWin.Business",
+      "projectPath": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.Business\\AAD.ImmoWin.Business.csproj",
+      "packagesPath": "C:\\Users\\Liman\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.Business\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Liman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\Odisee.Common\\Odisee.Common.csproj": {
+              "projectPath": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\Odisee.Common\\Odisee.Common.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

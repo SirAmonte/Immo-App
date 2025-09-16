@@ -1,0 +1,50 @@
+﻿<UserControl x:Class="AAD.ImmoWin.WPF.Views.KlantDetailView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AAD.ImmoWin.WPF.Views"
+        xmlns:viewmodels="clr-namespace:AAD.ImmoWin.WPF.ViewModels.Klanten"
+        d:DataContext="{d:DesignInstance Type=viewmodels:KlantDetailCommandViewModel}"
+        mc:Ignorable="d"
+        Height="450" Width="800" IsEnabled="{Binding IsEnabled}">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="35"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <TextBlock Margin="5" Text="Klant detailgegevens" Background="LightGray" Height="20" VerticalAlignment="Top" Grid.Row="0"/>
+        <StackPanel Orientation="Vertical" Grid.Row="1">
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Voornaam"/>
+                <TextBox Margin="5" Text="{Binding Voornaam, UpdateSourceTrigger=PropertyChanged}" Width="150"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Familienaam"/>
+                <TextBox Margin="5" Text="{Binding Familienaam, UpdateSourceTrigger=PropertyChanged}" Width="150"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Straat"/>
+                <TextBox Margin="5" Text="{Binding Straat, UpdateSourceTrigger=PropertyChanged}" Width="150"/>
+                <Label Content="Huisnummer"/>
+                <TextBox Margin="5" Text="{Binding Huisnummer, UpdateSourceTrigger=PropertyChanged}" Width="50"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Gemeente"/>
+                <TextBox Margin="5" Text="{Binding Gemeente, UpdateSourceTrigger=PropertyChanged}" Width="150"/>
+                <Label Content="Postnummer"/>
+                <TextBox Margin="5" Text="{Binding Postnummer, UpdateSourceTrigger=PropertyChanged}" Width="50"/>
+            </StackPanel>
+            <TextBlock Text="Woningen:"/>
+            <ListBox ItemsSource="{Binding Path=SelectedKlant.Woningen}" Width="370" MinHeight="50" HorizontalAlignment="Left" Margin="5">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="{Binding Path=., StringFormat='{}{0:T}'}"/>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+        </StackPanel>
+    </Grid>
+</UserControl>

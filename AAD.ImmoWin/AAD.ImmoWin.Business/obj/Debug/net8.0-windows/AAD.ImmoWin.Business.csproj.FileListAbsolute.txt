@@ -1,0 +1,32 @@
+C:\Users\teoma\Documents\GitHub\Advanced AD\immowin-SirAmonte\AAD.ImmoWin\AAD.ImmoWin.Business\obj\Debug\net8.0-windows\AAD.ImmoWin.Business.csproj.AssemblyReference.cache
+C:\Users\teoma\Documents\GitHub\Advanced AD\immowin-SirAmonte\AAD.ImmoWin\AAD.ImmoWin.Business\obj\Debug\net8.0-windows\AAD.ImmoWin.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teoma\Documents\GitHub\Advanced AD\immowin-SirAmonte\AAD.ImmoWin\AAD.ImmoWin.Business\obj\Debug\net8.0-windows\AAD.ImmoWin.Business.AssemblyInfoInputs.cache
+C:\Users\teoma\Documents\GitHub\Advanced AD\immowin-SirAmonte\AAD.ImmoWin\AAD.ImmoWin.Business\obj\Debug\net8.0-windows\AAD.ImmoWin.Business.AssemblyInfo.cs
+C:\Users\teoma\Documents\GitHub\Advanced AD\immowin-SirAmonte\AAD.ImmoWin\AAD.ImmoWin.Business\obj\Debug\net8.0-windows\AAD.ImmoWin.Business.csproj.CoreCompileInputs.cache
+C:\Users\teoma\Documents\GitHub\Advanced AD\immowin-SirAmonte\AAD.ImmoWin\AAD.ImmoWin.Business\obj\Debug\net8.0-windows\AAD.ImmoWin.Business.sourcelink.json
+C:\Users\teoma\Documents\GitHub\Advanced AD\immowin-SirAmonte\AAD.ImmoWin\AAD.ImmoWin.Business\bin\Debug\net8.0-windows\AAD.ImmoWin.Business.deps.json
+C:\Users\teoma\Documents\GitHub\Advanced AD\immowin-SirAmonte\AAD.ImmoWin\AAD.ImmoWin.Business\bin\Debug\net8.0-windows\AAD.ImmoWin.Business.dll
+C:\Users\teoma\Documents\GitHub\Advanced AD\immowin-SirAmonte\AAD.ImmoWin\AAD.ImmoWin.Business\bin\Debug\net8.0-windows\AAD.ImmoWin.Business.pdb
+C:\Users\teoma\Documents\GitHub\Advanced AD\immowin-SirAmonte\AAD.ImmoWin\AAD.ImmoWin.Business\bin\Debug\net8.0-windows\Odisee.Common.dll
+C:\Users\teoma\Documents\GitHub\Advanced AD\immowin-SirAmonte\AAD.ImmoWin\AAD.ImmoWin.Business\bin\Debug\net8.0-windows\Odisee.Common.pdb
+C:\Users\teoma\Documents\GitHub\Advanced AD\immowin-SirAmonte\AAD.ImmoWin\AAD.ImmoWin.Business\obj\Debug\net8.0-windows\AAD.Immo.B5EBE64A.Up2Date
+C:\Users\teoma\Documents\GitHub\Advanced AD\immowin-SirAmonte\AAD.ImmoWin\AAD.ImmoWin.Business\obj\Debug\net8.0-windows\AAD.ImmoWin.Business.dll
+C:\Users\teoma\Documents\GitHub\Advanced AD\immowin-SirAmonte\AAD.ImmoWin\AAD.ImmoWin.Business\obj\Debug\net8.0-windows\refint\AAD.ImmoWin.Business.dll
+C:\Users\teoma\Documents\GitHub\Advanced AD\immowin-SirAmonte\AAD.ImmoWin\AAD.ImmoWin.Business\obj\Debug\net8.0-windows\AAD.ImmoWin.Business.pdb
+C:\Users\teoma\Documents\GitHub\Advanced AD\immowin-SirAmonte\AAD.ImmoWin\AAD.ImmoWin.Business\obj\Debug\net8.0-windows\ref\AAD.ImmoWin.Business.dll
+C:\Users\Liman\OneDrive\Documenten\Github\repos\AAD\immowin-SirAmonte\AAD.ImmoWin\AAD.ImmoWin.Business\bin\Debug\net8.0-windows\AAD.ImmoWin.Business.deps.json
+C:\Users\Liman\OneDrive\Documenten\Github\repos\AAD\immowin-SirAmonte\AAD.ImmoWin\AAD.ImmoWin.Business\bin\Debug\net8.0-windows\AAD.ImmoWin.Business.dll
+C:\Users\Liman\OneDrive\Documenten\Github\repos\AAD\immowin-SirAmonte\AAD.ImmoWin\AAD.ImmoWin.Business\bin\Debug\net8.0-windows\AAD.ImmoWin.Business.pdb
+C:\Users\Liman\OneDrive\Documenten\Github\repos\AAD\immowin-SirAmonte\AAD.ImmoWin\AAD.ImmoWin.Business\bin\Debug\net8.0-windows\Odisee.Common.dll
+C:\Users\Liman\OneDrive\Documenten\Github\repos\AAD\immowin-SirAmonte\AAD.ImmoWin\AAD.ImmoWin.Business\bin\Debug\net8.0-windows\Odisee.Common.pdb
+C:\Users\Liman\OneDrive\Documenten\Github\repos\AAD\immowin-SirAmonte\AAD.ImmoWin\AAD.ImmoWin.Business\obj\Debug\net8.0-windows\AAD.ImmoWin.Business.csproj.AssemblyReference.cache
+C:\Users\Liman\OneDrive\Documenten\Github\repos\AAD\immowin-SirAmonte\AAD.ImmoWin\AAD.ImmoWin.Business\obj\Debug\net8.0-windows\AAD.ImmoWin.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liman\OneDrive\Documenten\Github\repos\AAD\immowin-SirAmonte\AAD.ImmoWin\AAD.ImmoWin.Business\obj\Debug\net8.0-windows\AAD.ImmoWin.Business.AssemblyInfoInputs.cache
+C:\Users\Liman\OneDrive\Documenten\Github\repos\AAD\immowin-SirAmonte\AAD.ImmoWin\AAD.ImmoWin.Business\obj\Debug\net8.0-windows\AAD.ImmoWin.Business.AssemblyInfo.cs
+C:\Users\Liman\OneDrive\Documenten\Github\repos\AAD\immowin-SirAmonte\AAD.ImmoWin\AAD.ImmoWin.Business\obj\Debug\net8.0-windows\AAD.ImmoWin.Business.csproj.CoreCompileInputs.cache
+C:\Users\Liman\OneDrive\Documenten\Github\repos\AAD\immowin-SirAmonte\AAD.ImmoWin\AAD.ImmoWin.Business\obj\Debug\net8.0-windows\AAD.ImmoWin.Business.sourcelink.json
+C:\Users\Liman\OneDrive\Documenten\Github\repos\AAD\immowin-SirAmonte\AAD.ImmoWin\AAD.ImmoWin.Business\obj\Debug\net8.0-windows\AAD.Immo.B5EBE64A.Up2Date
+C:\Users\Liman\OneDrive\Documenten\Github\repos\AAD\immowin-SirAmonte\AAD.ImmoWin\AAD.ImmoWin.Business\obj\Debug\net8.0-windows\AAD.ImmoWin.Business.dll
+C:\Users\Liman\OneDrive\Documenten\Github\repos\AAD\immowin-SirAmonte\AAD.ImmoWin\AAD.ImmoWin.Business\obj\Debug\net8.0-windows\refint\AAD.ImmoWin.Business.dll
+C:\Users\Liman\OneDrive\Documenten\Github\repos\AAD\immowin-SirAmonte\AAD.ImmoWin\AAD.ImmoWin.Business\obj\Debug\net8.0-windows\AAD.ImmoWin.Business.pdb
+C:\Users\Liman\OneDrive\Documenten\Github\repos\AAD\immowin-SirAmonte\AAD.ImmoWin\AAD.ImmoWin.Business\obj\Debug\net8.0-windows\ref\AAD.ImmoWin.Business.dll

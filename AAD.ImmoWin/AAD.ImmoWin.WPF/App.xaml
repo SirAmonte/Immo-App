@@ -1,0 +1,35 @@
+﻿<Application x:Class="AAD.ImmoWin.WPF.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:AAD.ImmoWin.WPF" 
+             xmlns:klantenviewmodels="clr-namespace:AAD.ImmoWin.WPF.ViewModels.Klanten"
+             xmlns:woningenviewmodels="clr-namespace:AAD.ImmoWin.WPF.ViewModels.Woningen" 
+             xmlns:views="clr-namespace:AAD.ImmoWin.WPF.Views"
+             xmlns:woningenviews="clr-namespace:AAD.ImmoWin.WPF.Views.Woningen"
+             StartupUri="Views/HoofdView.xaml">
+    <Application.Resources>
+        <DataTemplate DataType="{x:Type klantenviewmodels:KlantenModuleViewModel}">
+            <views:KlantenModuleView />
+        </DataTemplate>
+
+        <DataTemplate DataType="{x:Type klantenviewmodels:KlantenLijstViewModel}">
+            <views:KlantenLijstView />
+        </DataTemplate>
+
+        <DataTemplate DataType="{x:Type klantenviewmodels:KlantDetailCommandViewModel}">
+            <views:KlantDetailCommandView />
+        </DataTemplate>
+
+        <DataTemplate DataType="{x:Type woningenviewmodels:WoningenModuleViewModel}">
+            <woningenviews:WoningenModuleView />
+        </DataTemplate>
+
+        <DataTemplate DataType="{x:Type woningenviewmodels:WoningenLijstViewModel}">
+            <woningenviews:WoningenLijstView />
+        </DataTemplate>
+
+        <DataTemplate DataType="{x:Type woningenviewmodels:WoningDetailCommandViewModel}">
+            <woningenviews:WoningDetailCommandView />
+        </DataTemplate>
+    </Application.Resources>
+</Application>

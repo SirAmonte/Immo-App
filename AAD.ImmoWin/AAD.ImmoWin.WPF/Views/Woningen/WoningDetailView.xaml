@@ -1,0 +1,56 @@
+﻿<UserControl x:Class="AAD.ImmoWin.WPF.Views.Woningen.WoningDetailView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:AAD.ImmoWin.WPF.Views.Woningen"
+             xmlns:viewmodels="clr-namespace:AAD.ImmoWin.WPF.ViewModels.Woningen"
+             d:DataContext="{d:DesignInstance Type=viewmodels:WoningDetailCommandViewModel}"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800" IsEnabled="{Binding IsEnabled}">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="35"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <TextBlock Margin="5" Text="Woning detailgegevens" Background="LightGray" Height="20" VerticalAlignment="Top" Grid.Row="0"/>
+        <StackPanel Orientation="Vertical" Grid.Row="1">
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Klant"/>
+                <ComboBox ItemsSource="{Binding Klanten}" SelectedItem="{Binding SelectedKlant}" ItemStringFormat="{}{0:VN}" Margin="5" Width="150"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Huistype"/>
+                <ComboBox ItemsSource="{Binding HuisTypen}" SelectedItem="{Binding SelectedType}" Margin="5" Width="150"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Straat"/>
+                <TextBox Margin="5" Text="{Binding Straat, UpdateSourceTrigger=PropertyChanged}" Width="150"/>
+                <Label Content="Huisnummer"/>
+                <TextBox Margin="5" Text="{Binding Huisnummer, UpdateSourceTrigger=PropertyChanged}" Width="50"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Gemeente"/>
+                <TextBox Margin="5" Text="{Binding Gemeente, UpdateSourceTrigger=PropertyChanged}" Width="150"/>
+                <Label Content="Postnummer"/>
+                <TextBox Margin="5" Text="{Binding Postnummer, UpdateSourceTrigger=PropertyChanged}" Width="50"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Waarde"/>
+                <TextBox Margin="5" Text="{Binding Waarde, UpdateSourceTrigger=PropertyChanged}" Width="150"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <RadioButton Content="Huis" IsChecked="{Binding IsHuis, UpdateSourceTrigger=PropertyChanged}" Margin="5"/>
+                <RadioButton Content="Appartement" IsChecked="{Binding IsAppartement, UpdateSourceTrigger=PropertyChanged}" Margin="5"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Verdieping"/>
+                <TextBox Margin="5" Text="{Binding Verdieping, UpdateSourceTrigger=PropertyChanged}" Width="150"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Datum"/>
+                <DatePicker Margin="5" SelectedDate="{Binding Bouwdatum, UpdateSourceTrigger=PropertyChanged}" Width="150"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</UserControl>

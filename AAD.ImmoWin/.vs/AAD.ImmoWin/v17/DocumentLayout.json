@@ -1,0 +1,738 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|c:\\users\\liman\\onedrive\\documenten\\github\\repos\\aad\\immowin-siramonte\\aad.immowin\\aad.immowin.wpf\\viewmodels\\klanten\\klantenmoduleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|solutionrelative:aad.immowin.wpf\\viewmodels\\klanten\\klantenmoduleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|c:\\users\\liman\\onedrive\\documenten\\github\\repos\\aad\\immowin-siramonte\\aad.immowin\\aad.immowin.wpf\\viewmodels\\woningen\\woningenmoduleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|solutionrelative:aad.immowin.wpf\\viewmodels\\woningen\\woningenmoduleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|c:\\users\\liman\\onedrive\\documenten\\github\\repos\\aad\\immowin-siramonte\\aad.immowin\\aad.immowin.wpf\\viewmodels\\woningen\\woningenlijstviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|solutionrelative:aad.immowin.wpf\\viewmodels\\woningen\\woningenlijstviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|c:\\users\\liman\\onedrive\\documenten\\github\\repos\\aad\\immowin-siramonte\\aad.immowin\\aad.immowin.wpf\\viewmodels\\woningen\\woningdetailcommandviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|solutionrelative:aad.immowin.wpf\\viewmodels\\woningen\\woningdetailcommandviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|c:\\users\\liman\\onedrive\\documenten\\github\\repos\\aad\\immowin-siramonte\\aad.immowin\\aad.immowin.wpf\\viewmodels\\klanten\\klantdetailcommandviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|solutionrelative:aad.immowin.wpf\\viewmodels\\klanten\\klantdetailcommandviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|c:\\users\\liman\\onedrive\\documenten\\github\\repos\\aad\\immowin-siramonte\\aad.immowin\\aad.immowin.wpf\\viewmodels\\klanten\\klantenlijstviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|solutionrelative:aad.immowin.wpf\\viewmodels\\klanten\\klantenlijstviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|c:\\users\\liman\\onedrive\\documenten\\github\\repos\\aad\\immowin-siramonte\\aad.immowin\\aad.immowin.wpf\\viewstate\\woningenlijstviewstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|solutionrelative:aad.immowin.wpf\\viewstate\\woningenlijstviewstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|c:\\users\\liman\\onedrive\\documenten\\github\\repos\\aad\\immowin-siramonte\\aad.immowin\\aad.immowin.wpf\\viewstate\\woningdetailviewstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|solutionrelative:aad.immowin.wpf\\viewstate\\woningdetailviewstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|c:\\users\\liman\\onedrive\\documenten\\github\\repos\\aad\\immowin-siramonte\\aad.immowin\\aad.immowin.wpf\\viewstate\\klantdetailviewstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|solutionrelative:aad.immowin.wpf\\viewstate\\klantdetailviewstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|c:\\users\\liman\\onedrive\\documenten\\github\\repos\\aad\\immowin-siramonte\\aad.immowin\\aad.immowin.wpf\\viewstate\\klantenlijstviewstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|solutionrelative:aad.immowin.wpf\\viewstate\\klantenlijstviewstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|c:\\users\\liman\\onedrive\\documenten\\github\\repos\\aad\\immowin-siramonte\\aad.immowin\\aad.immowin.wpf\\views\\woningen\\woningenlijstview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|solutionrelative:aad.immowin.wpf\\views\\woningen\\woningenlijstview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|c:\\users\\liman\\onedrive\\documenten\\github\\repos\\aad\\immowin-siramonte\\aad.immowin\\aad.immowin.wpf\\views\\woningen\\woningenlijstview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|solutionrelative:aad.immowin.wpf\\views\\woningen\\woningenlijstview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|c:\\users\\liman\\onedrive\\documenten\\github\\repos\\aad\\immowin-siramonte\\aad.immowin\\aad.immowin.wpf\\repositories\\woningrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|solutionrelative:aad.immowin.wpf\\repositories\\woningrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|c:\\users\\liman\\onedrive\\documenten\\github\\repos\\aad\\immowin-siramonte\\aad.immowin\\aad.immowin.wpf\\viewmodels\\hoofdviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|solutionrelative:aad.immowin.wpf\\viewmodels\\hoofdviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BADD04-F7DC-4092-8CE6-6C4E7267DEC3}|AAD.ImmoWin.Business\\AAD.ImmoWin.Business.csproj|c:\\users\\liman\\onedrive\\documenten\\github\\repos\\aad\\immowin-siramonte\\aad.immowin\\aad.immowin.business\\classes\\klant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BADD04-F7DC-4092-8CE6-6C4E7267DEC3}|AAD.ImmoWin.Business\\AAD.ImmoWin.Business.csproj|solutionrelative:aad.immowin.business\\classes\\klant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BADD04-F7DC-4092-8CE6-6C4E7267DEC3}|AAD.ImmoWin.Business\\AAD.ImmoWin.Business.csproj|c:\\users\\liman\\onedrive\\documenten\\github\\repos\\aad\\immowin-siramonte\\aad.immowin\\aad.immowin.business\\classes\\huis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BADD04-F7DC-4092-8CE6-6C4E7267DEC3}|AAD.ImmoWin.Business\\AAD.ImmoWin.Business.csproj|solutionrelative:aad.immowin.business\\classes\\huis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BADD04-F7DC-4092-8CE6-6C4E7267DEC3}|AAD.ImmoWin.Business\\AAD.ImmoWin.Business.csproj|c:\\users\\liman\\onedrive\\documenten\\github\\repos\\aad\\immowin-siramonte\\aad.immowin\\aad.immowin.business\\classes\\woning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BADD04-F7DC-4092-8CE6-6C4E7267DEC3}|AAD.ImmoWin.Business\\AAD.ImmoWin.Business.csproj|solutionrelative:aad.immowin.business\\classes\\woning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|c:\\users\\liman\\onedrive\\documenten\\github\\repos\\aad\\immowin-siramonte\\aad.immowin\\aad.immowin.wpf\\views\\klanten\\klantenlijstview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|solutionrelative:aad.immowin.wpf\\views\\klanten\\klantenlijstview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|c:\\users\\liman\\onedrive\\documenten\\github\\repos\\aad\\immowin-siramonte\\aad.immowin\\aad.immowin.wpf\\views\\klanten\\klantenlijstview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|solutionrelative:aad.immowin.wpf\\views\\klanten\\klantenlijstview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|c:\\users\\liman\\onedrive\\documenten\\github\\repos\\aad\\immowin-siramonte\\aad.immowin\\aad.immowin.wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|solutionrelative:aad.immowin.wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|c:\\users\\liman\\onedrive\\documenten\\github\\repos\\aad\\immowin-siramonte\\aad.immowin\\aad.immowin.wpf\\views\\hoofdview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|solutionrelative:aad.immowin.wpf\\views\\hoofdview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|c:\\users\\liman\\onedrive\\documenten\\github\\repos\\aad\\immowin-siramonte\\aad.immowin\\aad.immowin.wpf\\views\\woningen\\woningenmoduleview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|solutionrelative:aad.immowin.wpf\\views\\woningen\\woningenmoduleview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|c:\\users\\liman\\onedrive\\documenten\\github\\repos\\aad\\immowin-siramonte\\aad.immowin\\aad.immowin.wpf\\views\\woningen\\woningdetailcommandview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|solutionrelative:aad.immowin.wpf\\views\\woningen\\woningdetailcommandview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|c:\\users\\liman\\onedrive\\documenten\\github\\repos\\aad\\immowin-siramonte\\aad.immowin\\aad.immowin.wpf\\views\\klanten\\klantdetailview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|solutionrelative:aad.immowin.wpf\\views\\klanten\\klantdetailview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|c:\\users\\liman\\onedrive\\documenten\\github\\repos\\aad\\immowin-siramonte\\aad.immowin\\aad.immowin.wpf\\repositories\\klantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|solutionrelative:aad.immowin.wpf\\repositories\\klantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|c:\\users\\liman\\onedrive\\documenten\\github\\repos\\aad\\immowin-siramonte\\aad.immowin\\aad.immowin.wpf\\dbcontext\\immowindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|solutionrelative:aad.immowin.wpf\\dbcontext\\immowindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BADD04-F7DC-4092-8CE6-6C4E7267DEC3}|AAD.ImmoWin.Business\\AAD.ImmoWin.Business.csproj|c:\\users\\liman\\onedrive\\documenten\\github\\repos\\aad\\immowin-siramonte\\aad.immowin\\aad.immowin.business\\classes\\appartement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BADD04-F7DC-4092-8CE6-6C4E7267DEC3}|AAD.ImmoWin.Business\\AAD.ImmoWin.Business.csproj|solutionrelative:aad.immowin.business\\classes\\appartement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BADD04-F7DC-4092-8CE6-6C4E7267DEC3}|AAD.ImmoWin.Business\\AAD.ImmoWin.Business.csproj|c:\\users\\liman\\onedrive\\documenten\\github\\repos\\aad\\immowin-siramonte\\aad.immowin\\aad.immowin.business\\interfaces\\ihuis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BADD04-F7DC-4092-8CE6-6C4E7267DEC3}|AAD.ImmoWin.Business\\AAD.ImmoWin.Business.csproj|solutionrelative:aad.immowin.business\\interfaces\\ihuis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|c:\\users\\liman\\onedrive\\documenten\\github\\repos\\aad\\immowin-siramonte\\aad.immowin\\aad.immowin.wpf\\views\\woningen\\woningdetailview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|solutionrelative:aad.immowin.wpf\\views\\woningen\\woningdetailview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BADD04-F7DC-4092-8CE6-6C4E7267DEC3}|AAD.ImmoWin.Business\\AAD.ImmoWin.Business.csproj|c:\\users\\liman\\onedrive\\documenten\\github\\repos\\aad\\immowin-siramonte\\aad.immowin\\aad.immowin.business\\interfaces\\iwoning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BADD04-F7DC-4092-8CE6-6C4E7267DEC3}|AAD.ImmoWin.Business\\AAD.ImmoWin.Business.csproj|solutionrelative:aad.immowin.business\\interfaces\\iwoning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BADD04-F7DC-4092-8CE6-6C4E7267DEC3}|AAD.ImmoWin.Business\\AAD.ImmoWin.Business.csproj|c:\\users\\liman\\onedrive\\documenten\\github\\repos\\aad\\immowin-siramonte\\aad.immowin\\aad.immowin.business\\classes\\adres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BADD04-F7DC-4092-8CE6-6C4E7267DEC3}|AAD.ImmoWin.Business\\AAD.ImmoWin.Business.csproj|solutionrelative:aad.immowin.business\\classes\\adres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|c:\\users\\liman\\onedrive\\documenten\\github\\repos\\aad\\immowin-siramonte\\aad.immowin\\aad.immowin.wpf\\views\\klanten\\klantenmoduleview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|solutionrelative:aad.immowin.wpf\\views\\klanten\\klantenmoduleview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|c:\\users\\liman\\onedrive\\documenten\\github\\repos\\aad\\immowin-siramonte\\aad.immowin\\aad.immowin.wpf\\views\\klanten\\klantdetailcommandview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|solutionrelative:aad.immowin.wpf\\views\\klanten\\klantdetailcommandview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/testKlant2/True/SqlTable/dbo.Woningen.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/testKlant2/True/SqlTable/dbo.Klanten.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/testKlant/True/SqlTable/dbo.Adressen.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BADD04-F7DC-4092-8CE6-6C4E7267DEC3}|AAD.ImmoWin.Business\\AAD.ImmoWin.Business.csproj|c:\\users\\liman\\onedrive\\documenten\\github\\repos\\aad\\immowin-siramonte\\aad.immowin\\aad.immowin.business\\interfaces\\iadres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BADD04-F7DC-4092-8CE6-6C4E7267DEC3}|AAD.ImmoWin.Business\\AAD.ImmoWin.Business.csproj|solutionrelative:aad.immowin.business\\interfaces\\iadres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BADD04-F7DC-4092-8CE6-6C4E7267DEC3}|AAD.ImmoWin.Business\\AAD.ImmoWin.Business.csproj|c:\\users\\liman\\onedrive\\documenten\\github\\repos\\aad\\immowin-siramonte\\aad.immowin\\aad.immowin.business\\interfaces\\iappartement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BADD04-F7DC-4092-8CE6-6C4E7267DEC3}|AAD.ImmoWin.Business\\AAD.ImmoWin.Business.csproj|solutionrelative:aad.immowin.business\\interfaces\\iappartement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|c:\\users\\liman\\onedrive\\documenten\\github\\repos\\aad\\immowin-siramonte\\aad.immowin\\aad.immowin.wpf\\views\\klanten\\klantenmoduleview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C385A0A-C941-41E8-A27B-0D4B79F3BDF4}|AAD.ImmoWin.WPF\\AAD.ImmoWin.WPF.csproj|solutionrelative:aad.immowin.wpf\\views\\klanten\\klantenmoduleview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21750EB-7B47-438B-8AF1-DF2DCDB102AA}|AAD.ImmoWin.ConsoleApp\\AAD.ImmoWin.ConsoleApp.csproj|c:\\users\\liman\\onedrive\\documenten\\github\\repos\\aad\\immowin-siramonte\\aad.immowin\\aad.immowin.consoleapp\\aad.immowin.consoleapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A21750EB-7B47-438B-8AF1-DF2DCDB102AA}|AAD.ImmoWin.ConsoleApp\\AAD.ImmoWin.ConsoleApp.csproj|solutionrelative:aad.immowin.consoleapp\\aad.immowin.consoleapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BADD04-F7DC-4092-8CE6-6C4E7267DEC3}|AAD.ImmoWin.Business\\AAD.ImmoWin.Business.csproj|c:\\users\\liman\\onedrive\\documenten\\github\\repos\\aad\\immowin-siramonte\\aad.immowin\\aad.immowin.business\\aad.immowin.business.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{60BADD04-F7DC-4092-8CE6-6C4E7267DEC3}|AAD.ImmoWin.Business\\AAD.ImmoWin.Business.csproj|solutionrelative:aad.immowin.business\\aad.immowin.business.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BADD04-F7DC-4092-8CE6-6C4E7267DEC3}|AAD.ImmoWin.Business\\AAD.ImmoWin.Business.csproj|c:\\users\\liman\\onedrive\\documenten\\github\\repos\\aad\\immowin-siramonte\\aad.immowin\\aad.immowin.business\\aad.immowin.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{60BADD04-F7DC-4092-8CE6-6C4E7267DEC3}|AAD.ImmoWin.Business\\AAD.ImmoWin.Business.csproj|solutionrelative:aad.immowin.business\\aad.immowin.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BADD04-F7DC-4092-8CE6-6C4E7267DEC3}|AAD.ImmoWin.Business\\AAD.ImmoWin.Business.csproj|c:\\users\\liman\\onedrive\\documenten\\github\\repos\\aad\\immowin-siramonte\\aad.immowin\\aad.immowin.business\\exceptions\\klantexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BADD04-F7DC-4092-8CE6-6C4E7267DEC3}|AAD.ImmoWin.Business\\AAD.ImmoWin.Business.csproj|solutionrelative:aad.immowin.business\\exceptions\\klantexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BADD04-F7DC-4092-8CE6-6C4E7267DEC3}|AAD.ImmoWin.Business\\AAD.ImmoWin.Business.csproj|c:\\users\\liman\\onedrive\\documenten\\github\\repos\\aad\\immowin-siramonte\\aad.immowin\\aad.immowin.business\\exceptions\\adresexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BADD04-F7DC-4092-8CE6-6C4E7267DEC3}|AAD.ImmoWin.Business\\AAD.ImmoWin.Business.csproj|solutionrelative:aad.immowin.business\\exceptions\\adresexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WoningDetailCommandViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\ViewModels\\Woningen\\WoningDetailCommandViewModel.cs",
+              "RelativeDocumentMoniker": "AAD.ImmoWin.WPF\\ViewModels\\Woningen\\WoningDetailCommandViewModel.cs",
+              "ToolTip": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\ViewModels\\Woningen\\WoningDetailCommandViewModel.cs",
+              "RelativeToolTip": "AAD.ImmoWin.WPF\\ViewModels\\Woningen\\WoningDetailCommandViewModel.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAwwF8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:32:59.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WoningenLijstViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\ViewModels\\Woningen\\WoningenLijstViewModel.cs",
+              "RelativeDocumentMoniker": "AAD.ImmoWin.WPF\\ViewModels\\Woningen\\WoningenLijstViewModel.cs",
+              "ToolTip": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\ViewModels\\Woningen\\WoningenLijstViewModel.cs",
+              "RelativeToolTip": "AAD.ImmoWin.WPF\\ViewModels\\Woningen\\WoningenLijstViewModel.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAUwDAAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T13:51:01.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WoningenModuleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\ViewModels\\Woningen\\WoningenModuleViewModel.cs",
+              "RelativeDocumentMoniker": "AAD.ImmoWin.WPF\\ViewModels\\Woningen\\WoningenModuleViewModel.cs",
+              "ToolTip": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\ViewModels\\Woningen\\WoningenModuleViewModel.cs",
+              "RelativeToolTip": "AAD.ImmoWin.WPF\\ViewModels\\Woningen\\WoningenModuleViewModel.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwCoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T19:04:06.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KlantenModuleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\ViewModels\\Klanten\\KlantenModuleViewModel.cs",
+              "RelativeDocumentMoniker": "AAD.ImmoWin.WPF\\ViewModels\\Klanten\\KlantenModuleViewModel.cs",
+              "ToolTip": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\ViewModels\\Klanten\\KlantenModuleViewModel.cs",
+              "RelativeToolTip": "AAD.ImmoWin.WPF\\ViewModels\\Klanten\\KlantenModuleViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T17:17:24.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KlantDetailCommandViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\ViewModels\\Klanten\\KlantDetailCommandViewModel.cs",
+              "RelativeDocumentMoniker": "AAD.ImmoWin.WPF\\ViewModels\\Klanten\\KlantDetailCommandViewModel.cs",
+              "ToolTip": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\ViewModels\\Klanten\\KlantDetailCommandViewModel.cs",
+              "RelativeToolTip": "AAD.ImmoWin.WPF\\ViewModels\\Klanten\\KlantDetailCommandViewModel.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswD0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T14:54:54.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KlantenLijstViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\ViewModels\\Klanten\\KlantenLijstViewModel.cs",
+              "RelativeDocumentMoniker": "AAD.ImmoWin.WPF\\ViewModels\\Klanten\\KlantenLijstViewModel.cs",
+              "ToolTip": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\ViewModels\\Klanten\\KlantenLijstViewModel.cs",
+              "RelativeToolTip": "AAD.ImmoWin.WPF\\ViewModels\\Klanten\\KlantenLijstViewModel.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAxwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T13:25:32.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WoningenLijstViewState.cs",
+              "DocumentMoniker": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\ViewState\\WoningenLijstViewState.cs",
+              "RelativeDocumentMoniker": "AAD.ImmoWin.WPF\\ViewState\\WoningenLijstViewState.cs",
+              "ToolTip": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\ViewState\\WoningenLijstViewState.cs",
+              "RelativeToolTip": "AAD.ImmoWin.WPF\\ViewState\\WoningenLijstViewState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T20:18:51.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WoningDetailViewState.cs",
+              "DocumentMoniker": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\ViewState\\WoningDetailViewState.cs",
+              "RelativeDocumentMoniker": "AAD.ImmoWin.WPF\\ViewState\\WoningDetailViewState.cs",
+              "ToolTip": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\ViewState\\WoningDetailViewState.cs",
+              "RelativeToolTip": "AAD.ImmoWin.WPF\\ViewState\\WoningDetailViewState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T20:19:29.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KlantDetailViewState.cs",
+              "DocumentMoniker": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\ViewState\\KlantDetailViewState.cs",
+              "RelativeDocumentMoniker": "AAD.ImmoWin.WPF\\ViewState\\KlantDetailViewState.cs",
+              "ToolTip": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\ViewState\\KlantDetailViewState.cs",
+              "RelativeToolTip": "AAD.ImmoWin.WPF\\ViewState\\KlantDetailViewState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T19:02:30.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KlantenLijstViewState.cs",
+              "DocumentMoniker": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\ViewState\\KlantenLijstViewState.cs",
+              "RelativeDocumentMoniker": "AAD.ImmoWin.WPF\\ViewState\\KlantenLijstViewState.cs",
+              "ToolTip": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\ViewState\\KlantenLijstViewState.cs",
+              "RelativeToolTip": "AAD.ImmoWin.WPF\\ViewState\\KlantenLijstViewState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T19:02:33.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WoningenLijstView.xaml",
+              "DocumentMoniker": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\Views\\Woningen\\WoningenLijstView.xaml",
+              "RelativeDocumentMoniker": "AAD.ImmoWin.WPF\\Views\\Woningen\\WoningenLijstView.xaml",
+              "ToolTip": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\Views\\Woningen\\WoningenLijstView.xaml",
+              "RelativeToolTip": "AAD.ImmoWin.WPF\\Views\\Woningen\\WoningenLijstView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-30T12:47:48.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WoningenLijstView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\Views\\Woningen\\WoningenLijstView.xaml.cs",
+              "RelativeDocumentMoniker": "AAD.ImmoWin.WPF\\Views\\Woningen\\WoningenLijstView.xaml.cs",
+              "ToolTip": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\Views\\Woningen\\WoningenLijstView.xaml.cs",
+              "RelativeToolTip": "AAD.ImmoWin.WPF\\Views\\Woningen\\WoningenLijstView.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:18:38.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WoningRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\Repositories\\WoningRepository.cs",
+              "RelativeDocumentMoniker": "AAD.ImmoWin.WPF\\Repositories\\WoningRepository.cs",
+              "ToolTip": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\Repositories\\WoningRepository.cs",
+              "RelativeToolTip": "AAD.ImmoWin.WPF\\Repositories\\WoningRepository.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAArwEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T20:16:13.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HoofdViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\ViewModels\\HoofdViewModel.cs",
+              "RelativeDocumentMoniker": "AAD.ImmoWin.WPF\\ViewModels\\HoofdViewModel.cs",
+              "ToolTip": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\ViewModels\\HoofdViewModel.cs",
+              "RelativeToolTip": "AAD.ImmoWin.WPF\\ViewModels\\HoofdViewModel.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAAE4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T19:27:04.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Klant.cs",
+              "DocumentMoniker": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.Business\\Classes\\Klant.cs",
+              "RelativeDocumentMoniker": "AAD.ImmoWin.Business\\Classes\\Klant.cs",
+              "ToolTip": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.Business\\Classes\\Klant.cs",
+              "RelativeToolTip": "AAD.ImmoWin.Business\\Classes\\Klant.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAuwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:35:22.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Huis.cs",
+              "DocumentMoniker": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.Business\\Classes\\Huis.cs",
+              "RelativeDocumentMoniker": "AAD.ImmoWin.Business\\Classes\\Huis.cs",
+              "ToolTip": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.Business\\Classes\\Huis.cs",
+              "RelativeToolTip": "AAD.ImmoWin.Business\\Classes\\Huis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:47:51.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Woning.cs",
+              "DocumentMoniker": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.Business\\Classes\\Woning.cs",
+              "RelativeDocumentMoniker": "AAD.ImmoWin.Business\\Classes\\Woning.cs",
+              "ToolTip": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.Business\\Classes\\Woning.cs",
+              "RelativeToolTip": "AAD.ImmoWin.Business\\Classes\\Woning.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAiwFEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:47:43.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "KlantenLijstView.xaml",
+              "DocumentMoniker": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\Views\\Klanten\\KlantenLijstView.xaml",
+              "RelativeDocumentMoniker": "AAD.ImmoWin.WPF\\Views\\Klanten\\KlantenLijstView.xaml",
+              "ToolTip": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\Views\\Klanten\\KlantenLijstView.xaml",
+              "RelativeToolTip": "AAD.ImmoWin.WPF\\Views\\Klanten\\KlantenLijstView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-20T15:52:22.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "KlantenLijstView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\Views\\Klanten\\KlantenLijstView.xaml.cs",
+              "RelativeDocumentMoniker": "AAD.ImmoWin.WPF\\Views\\Klanten\\KlantenLijstView.xaml.cs",
+              "ToolTip": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\Views\\Klanten\\KlantenLijstView.xaml.cs",
+              "RelativeToolTip": "AAD.ImmoWin.WPF\\Views\\Klanten\\KlantenLijstView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:33:31.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\App.xaml",
+              "RelativeDocumentMoniker": "AAD.ImmoWin.WPF\\App.xaml",
+              "ToolTip": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\App.xaml",
+              "RelativeToolTip": "AAD.ImmoWin.WPF\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-20T22:01:30.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HoofdView.xaml",
+              "DocumentMoniker": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\Views\\HoofdView.xaml",
+              "RelativeDocumentMoniker": "AAD.ImmoWin.WPF\\Views\\HoofdView.xaml",
+              "ToolTip": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\Views\\HoofdView.xaml",
+              "RelativeToolTip": "AAD.ImmoWin.WPF\\Views\\HoofdView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-20T13:07:34.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WoningDetailCommandView.xaml",
+              "DocumentMoniker": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\Views\\Woningen\\WoningDetailCommandView.xaml",
+              "RelativeDocumentMoniker": "AAD.ImmoWin.WPF\\Views\\Woningen\\WoningDetailCommandView.xaml",
+              "ToolTip": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\Views\\Woningen\\WoningDetailCommandView.xaml",
+              "RelativeToolTip": "AAD.ImmoWin.WPF\\Views\\Woningen\\WoningDetailCommandView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-30T13:53:38.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WoningenModuleView.xaml",
+              "DocumentMoniker": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\Views\\Woningen\\WoningenModuleView.xaml",
+              "RelativeDocumentMoniker": "AAD.ImmoWin.WPF\\Views\\Woningen\\WoningenModuleView.xaml",
+              "ToolTip": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\Views\\Woningen\\WoningenModuleView.xaml",
+              "RelativeToolTip": "AAD.ImmoWin.WPF\\Views\\Woningen\\WoningenModuleView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-30T13:57:17.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "KlantDetailView.xaml",
+              "DocumentMoniker": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\Views\\Klanten\\KlantDetailView.xaml",
+              "RelativeDocumentMoniker": "AAD.ImmoWin.WPF\\Views\\Klanten\\KlantDetailView.xaml",
+              "ToolTip": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\Views\\Klanten\\KlantDetailView.xaml",
+              "RelativeToolTip": "AAD.ImmoWin.WPF\\Views\\Klanten\\KlantDetailView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-10T15:33:55.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "KlantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\Repositories\\KlantRepository.cs",
+              "RelativeDocumentMoniker": "AAD.ImmoWin.WPF\\Repositories\\KlantRepository.cs",
+              "ToolTip": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\Repositories\\KlantRepository.cs",
+              "RelativeToolTip": "AAD.ImmoWin.WPF\\Repositories\\KlantRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:46:41.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ImmoWinDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\DBContext\\ImmoWinDBContext.cs",
+              "RelativeDocumentMoniker": "AAD.ImmoWin.WPF\\DBContext\\ImmoWinDBContext.cs",
+              "ToolTip": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\DBContext\\ImmoWinDBContext.cs",
+              "RelativeToolTip": "AAD.ImmoWin.WPF\\DBContext\\ImmoWinDBContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:02:08.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Appartement.cs",
+              "DocumentMoniker": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.Business\\Classes\\Appartement.cs",
+              "RelativeDocumentMoniker": "AAD.ImmoWin.Business\\Classes\\Appartement.cs",
+              "ToolTip": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.Business\\Classes\\Appartement.cs",
+              "RelativeToolTip": "AAD.ImmoWin.Business\\Classes\\Appartement.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:37:39.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IHuis.cs",
+              "DocumentMoniker": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.Business\\Interfaces\\IHuis.cs",
+              "RelativeDocumentMoniker": "AAD.ImmoWin.Business\\Interfaces\\IHuis.cs",
+              "ToolTip": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.Business\\Interfaces\\IHuis.cs",
+              "RelativeToolTip": "AAD.ImmoWin.Business\\Interfaces\\IHuis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T21:27:50.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "WoningDetailView.xaml",
+              "DocumentMoniker": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\Views\\Woningen\\WoningDetailView.xaml",
+              "RelativeDocumentMoniker": "AAD.ImmoWin.WPF\\Views\\Woningen\\WoningDetailView.xaml",
+              "ToolTip": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\Views\\Woningen\\WoningDetailView.xaml",
+              "RelativeToolTip": "AAD.ImmoWin.WPF\\Views\\Woningen\\WoningDetailView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-20T13:03:07.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IWoning.cs",
+              "DocumentMoniker": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.Business\\Interfaces\\IWoning.cs",
+              "RelativeDocumentMoniker": "AAD.ImmoWin.Business\\Interfaces\\IWoning.cs",
+              "ToolTip": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.Business\\Interfaces\\IWoning.cs",
+              "RelativeToolTip": "AAD.ImmoWin.Business\\Interfaces\\IWoning.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:20:56.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Adres.cs",
+              "DocumentMoniker": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.Business\\Classes\\Adres.cs",
+              "RelativeDocumentMoniker": "AAD.ImmoWin.Business\\Classes\\Adres.cs",
+              "ToolTip": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.Business\\Classes\\Adres.cs",
+              "RelativeToolTip": "AAD.ImmoWin.Business\\Classes\\Adres.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAuwFcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:47:54.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "KlantenModuleView.xaml",
+              "DocumentMoniker": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\Views\\Klanten\\KlantenModuleView.xaml",
+              "RelativeDocumentMoniker": "AAD.ImmoWin.WPF\\Views\\Klanten\\KlantenModuleView.xaml",
+              "ToolTip": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\Views\\Klanten\\KlantenModuleView.xaml",
+              "RelativeToolTip": "AAD.ImmoWin.WPF\\Views\\Klanten\\KlantenModuleView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-26T18:56:18.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "KlantDetailCommandView.xaml",
+              "DocumentMoniker": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\Views\\Klanten\\KlantDetailCommandView.xaml",
+              "RelativeDocumentMoniker": "AAD.ImmoWin.WPF\\Views\\Klanten\\KlantDetailCommandView.xaml",
+              "ToolTip": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\Views\\Klanten\\KlantDetailCommandView.xaml",
+              "RelativeToolTip": "AAD.ImmoWin.WPF\\Views\\Klanten\\KlantDetailCommandView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-26T18:58:51.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "dbo.Woningen.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/testKlant2/True/SqlTable/dbo.Woningen.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/testKlant2/True/SqlTable/dbo.Woningen.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-30T15:19:31.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "dbo.Klanten.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/testKlant2/True/SqlTable/dbo.Klanten.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/testKlant2/True/SqlTable/dbo.Klanten.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-16T23:34:25.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "dbo.Adressen.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/testKlant/True/SqlTable/dbo.Adressen.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/testKlant/True/SqlTable/dbo.Adressen.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-10T08:16:48.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IAppartement.cs",
+              "DocumentMoniker": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.Business\\Interfaces\\IAppartement.cs",
+              "RelativeDocumentMoniker": "AAD.ImmoWin.Business\\Interfaces\\IAppartement.cs",
+              "ToolTip": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.Business\\Interfaces\\IAppartement.cs",
+              "RelativeToolTip": "AAD.ImmoWin.Business\\Interfaces\\IAppartement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:08:42.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IAdres.cs",
+              "DocumentMoniker": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.Business\\Interfaces\\IAdres.cs",
+              "RelativeDocumentMoniker": "AAD.ImmoWin.Business\\Interfaces\\IAdres.cs",
+              "ToolTip": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.Business\\Interfaces\\IAdres.cs",
+              "RelativeToolTip": "AAD.ImmoWin.Business\\Interfaces\\IAdres.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:51:44.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "KlantenModuleView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\Views\\Klanten\\KlantenModuleView.xaml.cs",
+              "RelativeDocumentMoniker": "AAD.ImmoWin.WPF\\Views\\Klanten\\KlantenModuleView.xaml.cs",
+              "ToolTip": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.WPF\\Views\\Klanten\\KlantenModuleView.xaml.cs",
+              "RelativeToolTip": "AAD.ImmoWin.WPF\\Views\\Klanten\\KlantenModuleView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T23:00:23.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AAD.ImmoWin.ConsoleApp",
+              "DocumentMoniker": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.ConsoleApp\\AAD.ImmoWin.ConsoleApp.csproj",
+              "RelativeDocumentMoniker": "AAD.ImmoWin.ConsoleApp\\AAD.ImmoWin.ConsoleApp.csproj",
+              "ToolTip": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.ConsoleApp\\AAD.ImmoWin.ConsoleApp.csproj",
+              "RelativeToolTip": "AAD.ImmoWin.ConsoleApp\\AAD.ImmoWin.ConsoleApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-05T13:22:54.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAFAHAAAAAAAAAAAAwGEHAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-12-05T13:22:45.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AAD.ImmoWin.Business",
+              "DocumentMoniker": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.Business\\AAD.ImmoWin.Business.csproj",
+              "RelativeDocumentMoniker": "AAD.ImmoWin.Business\\AAD.ImmoWin.Business.csproj",
+              "ToolTip": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.Business\\AAD.ImmoWin.Business.csproj",
+              "RelativeToolTip": "AAD.ImmoWin.Business\\AAD.ImmoWin.Business.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-05T13:20:15.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AAD.ImmoWin.Business.csproj",
+              "DocumentMoniker": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.Business\\AAD.ImmoWin.Business.csproj",
+              "RelativeDocumentMoniker": "AAD.ImmoWin.Business\\AAD.ImmoWin.Business.csproj",
+              "ToolTip": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.Business\\AAD.ImmoWin.Business.csproj",
+              "RelativeToolTip": "AAD.ImmoWin.Business\\AAD.ImmoWin.Business.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-05T13:20:04.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "KlantExceptions.cs",
+              "DocumentMoniker": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.Business\\Exceptions\\KlantExceptions.cs",
+              "RelativeDocumentMoniker": "AAD.ImmoWin.Business\\Exceptions\\KlantExceptions.cs",
+              "ToolTip": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.Business\\Exceptions\\KlantExceptions.cs",
+              "RelativeToolTip": "AAD.ImmoWin.Business\\Exceptions\\KlantExceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T21:27:42.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AdresExceptions.cs",
+              "DocumentMoniker": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.Business\\Exceptions\\AdresExceptions.cs",
+              "RelativeDocumentMoniker": "AAD.ImmoWin.Business\\Exceptions\\AdresExceptions.cs",
+              "ToolTip": "C:\\Users\\Liman\\OneDrive\\Documenten\\Github\\repos\\AAD\\immowin-SirAmonte\\AAD.ImmoWin\\AAD.ImmoWin.Business\\Exceptions\\AdresExceptions.cs",
+              "RelativeToolTip": "AAD.ImmoWin.Business\\Exceptions\\AdresExceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T21:27:39.194Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

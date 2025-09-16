@@ -1,0 +1,22 @@
+﻿<UserControl x:Class="AAD.ImmoWin.WPF.Views.KlantDetailCommandView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AAD.ImmoWin.WPF.Views"
+        xmlns:viewmodels="clr-namespace:AAD.ImmoWin.WPF.ViewModels.Klanten"
+        d:DataContext="{d:DesignInstance Type=viewmodels:KlantDetailCommandViewModel}"
+        mc:Ignorable="d"
+        Height="450" Width="800" IsEnabled="{Binding IsEnabled}">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="235"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <ContentControl Content="{Binding KlantDetailView}" Grid.Row="0"></ContentControl>
+        <StackPanel Orientation="Horizontal" Grid.Row="1">
+            <Button Margin="5" Command="{Binding SaveCommand}" Height="30">Save</Button>
+            <Button Margin="5" Command="{Binding CancelCommand}" Height="30" >Cancel</Button>
+        </StackPanel>
+    </Grid>
+</UserControl>

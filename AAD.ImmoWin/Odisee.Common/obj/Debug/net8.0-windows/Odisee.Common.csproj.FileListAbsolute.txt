@@ -1,0 +1,24 @@
+C:\Users\teoma\Documents\GitHub\Advanced AD\immowin-SirAmonte\AAD.ImmoWin\Odisee.Common\bin\Debug\net8.0-windows\Odisee.Common.deps.json
+C:\Users\teoma\Documents\GitHub\Advanced AD\immowin-SirAmonte\AAD.ImmoWin\Odisee.Common\bin\Debug\net8.0-windows\Odisee.Common.dll
+C:\Users\teoma\Documents\GitHub\Advanced AD\immowin-SirAmonte\AAD.ImmoWin\Odisee.Common\bin\Debug\net8.0-windows\Odisee.Common.pdb
+C:\Users\teoma\Documents\GitHub\Advanced AD\immowin-SirAmonte\AAD.ImmoWin\Odisee.Common\obj\Debug\net8.0-windows\Odisee.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teoma\Documents\GitHub\Advanced AD\immowin-SirAmonte\AAD.ImmoWin\Odisee.Common\obj\Debug\net8.0-windows\Odisee.Common.AssemblyInfoInputs.cache
+C:\Users\teoma\Documents\GitHub\Advanced AD\immowin-SirAmonte\AAD.ImmoWin\Odisee.Common\obj\Debug\net8.0-windows\Odisee.Common.AssemblyInfo.cs
+C:\Users\teoma\Documents\GitHub\Advanced AD\immowin-SirAmonte\AAD.ImmoWin\Odisee.Common\obj\Debug\net8.0-windows\Odisee.Common.csproj.CoreCompileInputs.cache
+C:\Users\teoma\Documents\GitHub\Advanced AD\immowin-SirAmonte\AAD.ImmoWin\Odisee.Common\obj\Debug\net8.0-windows\Odisee.Common.sourcelink.json
+C:\Users\teoma\Documents\GitHub\Advanced AD\immowin-SirAmonte\AAD.ImmoWin\Odisee.Common\obj\Debug\net8.0-windows\Odisee.Common.dll
+C:\Users\teoma\Documents\GitHub\Advanced AD\immowin-SirAmonte\AAD.ImmoWin\Odisee.Common\obj\Debug\net8.0-windows\refint\Odisee.Common.dll
+C:\Users\teoma\Documents\GitHub\Advanced AD\immowin-SirAmonte\AAD.ImmoWin\Odisee.Common\obj\Debug\net8.0-windows\Odisee.Common.pdb
+C:\Users\teoma\Documents\GitHub\Advanced AD\immowin-SirAmonte\AAD.ImmoWin\Odisee.Common\obj\Debug\net8.0-windows\ref\Odisee.Common.dll
+C:\Users\Liman\OneDrive\Documenten\Github\repos\AAD\immowin-SirAmonte\AAD.ImmoWin\Odisee.Common\bin\Debug\net8.0-windows\Odisee.Common.deps.json
+C:\Users\Liman\OneDrive\Documenten\Github\repos\AAD\immowin-SirAmonte\AAD.ImmoWin\Odisee.Common\bin\Debug\net8.0-windows\Odisee.Common.dll
+C:\Users\Liman\OneDrive\Documenten\Github\repos\AAD\immowin-SirAmonte\AAD.ImmoWin\Odisee.Common\bin\Debug\net8.0-windows\Odisee.Common.pdb
+C:\Users\Liman\OneDrive\Documenten\Github\repos\AAD\immowin-SirAmonte\AAD.ImmoWin\Odisee.Common\obj\Debug\net8.0-windows\Odisee.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liman\OneDrive\Documenten\Github\repos\AAD\immowin-SirAmonte\AAD.ImmoWin\Odisee.Common\obj\Debug\net8.0-windows\Odisee.Common.AssemblyInfoInputs.cache
+C:\Users\Liman\OneDrive\Documenten\Github\repos\AAD\immowin-SirAmonte\AAD.ImmoWin\Odisee.Common\obj\Debug\net8.0-windows\Odisee.Common.AssemblyInfo.cs
+C:\Users\Liman\OneDrive\Documenten\Github\repos\AAD\immowin-SirAmonte\AAD.ImmoWin\Odisee.Common\obj\Debug\net8.0-windows\Odisee.Common.csproj.CoreCompileInputs.cache
+C:\Users\Liman\OneDrive\Documenten\Github\repos\AAD\immowin-SirAmonte\AAD.ImmoWin\Odisee.Common\obj\Debug\net8.0-windows\Odisee.Common.sourcelink.json
+C:\Users\Liman\OneDrive\Documenten\Github\repos\AAD\immowin-SirAmonte\AAD.ImmoWin\Odisee.Common\obj\Debug\net8.0-windows\Odisee.Common.dll
+C:\Users\Liman\OneDrive\Documenten\Github\repos\AAD\immowin-SirAmonte\AAD.ImmoWin\Odisee.Common\obj\Debug\net8.0-windows\refint\Odisee.Common.dll
+C:\Users\Liman\OneDrive\Documenten\Github\repos\AAD\immowin-SirAmonte\AAD.ImmoWin\Odisee.Common\obj\Debug\net8.0-windows\Odisee.Common.pdb
+C:\Users\Liman\OneDrive\Documenten\Github\repos\AAD\immowin-SirAmonte\AAD.ImmoWin\Odisee.Common\obj\Debug\net8.0-windows\ref\Odisee.Common.dll
